@@ -21,7 +21,6 @@ import java.util.Map;
 import com.amazonaws.services.dynamodbv2.model.AttributeValue;
 import com.amazonaws.services.dynamodbv2.model.PutItemRequest;
 import com.amazonaws.services.dynamodbv2.model.PutItemResult;
-import com.amazonaws.client.builder.AwsClientBuilder;
 
 /**
  *  Following generated code sample describes use of AWS SDK for Java v1 for calling Amazon DynamoDB APIs
